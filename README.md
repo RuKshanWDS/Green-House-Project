@@ -1,10 +1,20 @@
 <h1>🌱 Smart Agriculture Monitoring System</h1>
 
-<p>
-An Arduino-based project to monitor <b>soil moisture</b> and <b>temperature</b>, and automatically control a 
-<b>water pump</b> and <b>fan</b>. The system also includes an <b>ultrasonic sensor</b> for distance measurement and 
-an <b>I2C LCD display</b> to show sensor readings and device status.
-</p>
+<table>
+  <tr>
+    <td style="width:65%; vertical-align:top;">
+      <p>
+        An Arduino-based project to monitor <b>soil moisture</b> and <b>temperature</b>, 
+        and automatically control a <b>water pump</b> and <b>fan</b>. 
+        The system also includes an <b>ultrasonic sensor</b> for distance measurement 
+        and an <b>I2C LCD display</b> to show sensor readings and device status.
+      </p>
+    </td>
+    <td style="width:50%; text-align:right;">
+      <img src="images.jpg" alt="Smart Agriculture Setup" width="1500" style="border-radius:12px;">
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -37,8 +47,12 @@ an <b>I2C LCD display</b> to show sensor readings and device status.
 
 <h2>⚡ Circuit Diagram</h2>
 
-<p align="center">
-  <img src="C:\Users\RUKSHAN\Pictures\Camera Roll\greenHouseCircuit.png" alt="Circuit Diagram" width="600">
+<p>
+  <p align="center">
+    <img src="greenHouseCircuit.PNG" alt="Circuit Diagram" width="600">
+  </p>
+  🔗 <b>Try the simulation on Tinkercad:</b> 
+  <a href="https://www.tinkercad.com/things/afNzU3AvEiS-green-house-project-main-circuit?sharecode=FYluYAvN6wKdDOKAZyYFRFChY0knwW8-         ccxqamXaSGo" target="_blank">Greenhouse Project – Main Circuit Simulation</a>
 </p>
 
 <hr>
